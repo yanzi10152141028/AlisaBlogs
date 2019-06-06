@@ -1,0 +1,20 @@
+.about_us{
+    .aboutus_content{
+        .classify{
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            span{
+                display: inline-block;
+                padding-right: 20px;
+                cursor: pointer;
+            }
+            span:nth-child(1){
+                cursor: default;
+            }
+            .active{
+                color: rgb(255, 208, 75);
+            }
+        }
+    }
+}

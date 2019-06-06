@@ -1,0 +1,23 @@
+.manage_getuser{
+  background-color: #fff;
+  padding: 20px;
+}
+.manage_addUser{
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+}
+.manage_getuser h3,.manage_addUser h3 {
+  margin-bottom: 20px;
+}
+.manage_getuser table{
+  width: 100%;
+}
+.manage_getuser table tr td,.manage_getuser table th{
+    text-align: center;
+}
+.el-pagination{
+  position: fixed;
+  bottom: -10px;
+  margin: 20px auto;
+}

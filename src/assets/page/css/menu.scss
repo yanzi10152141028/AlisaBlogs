@@ -1,0 +1,15 @@
+.el-menu {
+  border-right: 0 !important;
+  .el-submenu__title {
+    padding-left: 10px;
+  }
+}
+.el-menu-vertical-demo {
+  padding: 20px 0;
+}
+.el-menu-item-group__title{
+    padding: 0;
+}
+.el-submenu .el-menu-item{
+  // color: #909399 !important;
+}

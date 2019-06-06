@@ -1,0 +1,19 @@
+.login_register{
+    background-color: #ffffff;
+    position: relative;
+    padding: 100px 0;
+    .title{
+       margin-bottom: 20px;
+       span{
+           font-size: 18px;
+           cursor: pointer;
+       }
+    }
+    #register{
+      display: none;
+    }
+    
+    .active{
+        color:#409EFF;
+    }
+}
